@@ -35,7 +35,7 @@ e) Terraform destroy (Destroy Terraform-managed infrastructure)
 #######################################################################################################################
 
 # terraform -h
-Usage: terraform [-version] [-help] <command> [args]
+``Usage: terraform [-version] [-help] <command> [args]
 
 The available commands for execution are listed below.
 The most common, useful commands are shown first, followed by
@@ -70,6 +70,6 @@ All other commands:
     force-unlock       Manually unlock the terraform state
     push               Obsolete command for Terraform Enterprise legacy (v1)
     state              Advanced state management
-
+``
 #######################################################################################################################
 
